@@ -1,0 +1,16 @@
+body{text-align: center;
+    background: rgb(43,107,35);
+background: linear-gradient(122deg, rgba(43,107,35,1) 35%, rgba(26,57,255,1) 65%);
+}
+h1{
+    font-size: 50px;
+    color: yellow;
+}
+p{
+    font-size: xx-large;
+   color: white;
+    font-family: 'Caveat', cursive;;
+}
+img{
+    border-radius: 20px;
+}
